@@ -1,10 +1,10 @@
 # Ignore everything
-*
+/*
 
 # But not these files...
 # !.gitignore
-!/evaluator_codes/*
-!/jupyter/*
+!/evaluator_codes
+!/jupyter
 
 
 # ...even if they are in subdirectories
