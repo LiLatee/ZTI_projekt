@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b7100b-341e-4541-8d7f-f1008291325c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CEA_Evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CEA_Evaluator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../jupyter/1. introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../jupyter/1. introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jupyter/show_bad_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../jupyter/show_bad_results.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/evaluator_codes$evaluator.coverage" NAME="evaluator Coverage Results" MODIFIED="1575218856074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/evaluator_codes$CEA_Evaluator.coverage" NAME="CEA_Evaluator Coverage Results" MODIFIED="1576421550008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/evaluator_codes$CEA_Evaluator.coverage" NAME="CEA_Evaluator Coverage Results" MODIFIED="1576496942719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/CEA_Evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="333">
-              <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
+              <caret line="76" column="72" selection-start-line="76" selection-start-column="72" selection-end-line="76" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -38,11 +38,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2391" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2390" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,21 +160,23 @@
       <workItem from="1576338548507" duration="200000" />
       <workItem from="1576339049586" duration="37000" />
       <workItem from="1576421535271" duration="722000" />
+      <workItem from="1576496679515" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8768000" />
+    <option name="totallyTimeSpent" value="9032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42351276" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42351276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,7 +206,7 @@
     <entry file="file://$PROJECT_DIR$/CEA_Evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
-          <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
+          <caret line="76" column="72" selection-start-line="76" selection-start-column="72" selection-end-line="76" selection-end-column="72" />
         </state>
       </provider>
     </entry>
