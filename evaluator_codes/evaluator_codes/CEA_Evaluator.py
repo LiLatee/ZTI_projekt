@@ -74,7 +74,7 @@ if __name__ == "__main__":
     # and a sample submission is present at data/sample_submission.csv
     answer_file_path = "data/CEA_Round1_gt.csv"
     _client_payload = {}
-    _client_payload["submission_file_path"] = "data/my_submission_films3.csv"
+    _client_payload["submission_file_path"] = "data/my_submission_regex.csv"
     _client_payload["aicrowd_submission_id"] = 1123
     _client_payload["aicrowd_participant_id"] = 1234
     
